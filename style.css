@@ -1,0 +1,26 @@
+.whole {
+
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    position: relative;
+    left: 457px;
+}
+
+body {
+    background-color: yellow;
+}
+
+.box {
+    right: 44px;
+    position: relative;
+    top: 48px;
+}
+#submit{
+    height: fit-content;
+    width: auto;
+}
